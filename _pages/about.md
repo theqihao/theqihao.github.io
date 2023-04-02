@@ -17,42 +17,70 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology. My advisors are Dr. Yu Zhang and Prof. Hai Jin, who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research focuses on deployable hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics. -->
 
 
-# 🔥 News
+
+<!-- I’m currently a Ph.D. student at CGCL, HUST, in a group managed by Hai Jin. -->
+
+My research interest includes: 
+- Graph mining
+- Streaming graph
+- Software system and architecture
+
+
+# 🎓 Educations 
+- *2021.09 - now*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
+- *2018.09 - 2021.06*, <a href="http://en.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
+- *2014.09 - 2018.6*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
+
+
+
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* **[DAC'23]** PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining<br>
+**Hao Qi**, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, Jin Zhao, Hai Jin<br>
+The 60th Design Automation Conference, 2023 | [[pdf]]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+* Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics<br>
+Hai Jin, **Hao Qi**, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao<br>
+Intelligent Computing, 2022 | [[pdf]](/_file/greview.pdf)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+* Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach<br>
+Hui Yu, Xin-Yu Jiang, Jin Zhao, **Hao Qi**, Yu Zhang, Xiao-Fei Liao, Hai-Kun Liu, Fu-Bing Mao, Hai Jin<br>
+Journal of Computer Science and Technology, 2022 | [[pdf]](/_file/aiter.pdf)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+* Tetris: A Heuristic Static Memory Management Framework for Uniform Memory Multicore Neural Network Accelerators<br>
+Xiao-Bing Chen, **Hao Qi**, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
+Journal of Computer Science and Technology, 2022 | [[pdf]](/_file/tetris.pdf)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* Software and hardware co-optimization design and
+implementation of depthwise convolution<br>
+**Hao Qi**, ShaoLi Liu, Wei Li<br>
+High Technology Letters, 2022 | [[pdf]](/_file/depthwise.pdf)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* Research on Software and Hardware Optimization of Convolution Operation in Neural Network<br>
+**Hao Qi**<br>
+Master Thesis, 2021 | [[pdf]](/_file/main.pdf)
 
-# 💬 Invited Talks
+# 🏅 Honors and Awards
+- *2017.09* 440 scores out of 500 in CCF CSP (top 0.14%), China
+- *2016.12* National Scholarship, China
+
+
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2018.06 - 2021.06*, [Cambricon Technologies Corporation](https://www.cambricon.com/), China.
