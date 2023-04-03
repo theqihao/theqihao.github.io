@@ -81,6 +81,4 @@ Master Thesis, 2021 | [[pdf]](/_files/main.pdf)
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-# 💻 Internships
 - *2018.06 - 2021.06*, [Cambricon Technologies Corporation](https://www.cambricon.com/), China.
