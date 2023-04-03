@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology. My advisors are Dr. Yu Zhang and Prof. Hai Jin, who is the director of [CGCL lab](http://grid.hust.edu.cn/).
+I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology(HUST). My advisors are Dr. Yu Zhang and Prof. Hai Jin, who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
 <!-- My research focuses on deployable hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics. -->
 
@@ -28,17 +28,12 @@ I am currently a Ph.D. candidate at the School of Computer Science and Technolog
 My research interest includes: 
 - Graph mining
 - Streaming graph
+- Deep learning
 - Software system and architecture
 
 
-# 🎓 Educations 
-- *2021.09 - now*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
-- *2018.09 - 2021.06*, <a href="http://en.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> School of Computer Science and Technology, University of Science and Technology of China, Hefei China. 
-- *2014.09 - 2018.6*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
-
-
-
 # 🔥 News
+*2023.02*: &nbsp;🎉🎉 Paper is accepted by DAC 2023!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -71,14 +66,23 @@ High Technology Letters, 2022 | [[pdf]](/files/depthwise.pdf)
 Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 
 # 🏅 Honors and Awards
-- *2017.09* 440 scores out of 500 in CCF CSP (top 0.14%), China
-- *2016.12* National Scholarship, China
+<!-- - *2023.01* Merit Postgraduate, HUST, China  -->
+- *2021.04* Zhongguancun Postgraduate Basic Scholarship
+- *2020.01* Cambrian Scholarship
+- *2018.12* Cambrian Scholarship
+- *2017.09* 440 scores out of 500 in CCF CSP (top 0.14%)
+- *2016.11* National Scholarship
 
+# 🎓 Educations 
+- *2021.09 - now*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
+- *2018.09 - 2021.06*, <a href="http://en.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> School of Computer Science and Technology, University of Science and Technology of China, Hefei China. 
+- *2014.09 - 2018.06*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
 
 
 # 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+- coming soon
 
 # 💻 Internships
-- *2018.06 - 2021.06*, [Cambricon Technologies Corporation](https://www.cambricon.com/), China.
+- *2018.02 - 2021.06*, [Cambricon Technologies Corporation](https://www.cambricon.com/), China.

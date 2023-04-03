@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Hao Qi (齐豪)"
-description              : "This is the academic homepage of Ph.D. Qi."
+# description              : "This is the academic homepage of Ph.D. Qi."
+description              : ""
 repository               : "theqihao/theqihao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Qi (齐豪)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong university of science and technology"
+  bio              : "Ph.D. student of CS, HUST"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
