@@ -86,3 +86,5 @@ Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 
 # 💻 Internships
 - *2018.02 - 2021.06*, [Cambricon Technologies Corporation](https://www.cambricon.com/), China.
+
+# ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao.github.io&left_color=red&right_color=green) 
