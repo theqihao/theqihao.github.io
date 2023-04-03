@@ -69,8 +69,8 @@ Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 # 🏅 Honors and Awards
 <!-- - *2023.01* Merit Postgraduate, HUST, China  -->
 - *2021.04* Zhongguancun Postgraduate Basic Scholarship
-- *2020.01* Cambrian Scholarship
-- *2018.12* Cambrian Scholarship
+- *2020.01* Cambricon Scholarship
+- *2018.12* Cambricon Scholarship
 - *2017.09* 440 scores out of 500 in CCF CSP (top 0.14%)
 - *2016.11* National Scholarship
 
