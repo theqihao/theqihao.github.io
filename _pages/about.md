@@ -41,29 +41,29 @@ My research interest includes:
 
 
 * **[DAC'23]** PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining<br>
-<u>**Hao Qi**</u>, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, Jin Zhao, Hai Jin<br>
+**<u>Hao Qi</u>**, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, Jin Zhao, Hai Jin<br>
 The 60th Design Automation Conference, 2023 
 <!-- | [[pdf]]() -->
 
 * Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics<br>
-Hai Jin, <u>**Hao Qi**</u>, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao<br>
+Hai Jin, **<u>Hao Qi</u>**, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao<br>
 Intelligent Computing, 2022 | [[pdf]](/files/greview.pdf)
 
 * Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach<br>
-Hui Yu, Xin-Yu Jiang, Jin Zhao, <u>**Hao Qi**</u>, Yu Zhang, Xiao-Fei Liao, Hai-Kun Liu, Fu-Bing Mao, Hai Jin<br>
+Hui Yu, Xin-Yu Jiang, Jin Zhao, **<u>Hao Qi</u>**, Yu Zhang, Xiao-Fei Liao, Hai-Kun Liu, Fu-Bing Mao, Hai Jin<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/aiter.pdf)
 
 * Tetris: A Heuristic Static Memory Management Framework for Uniform Memory Multicore Neural Network Accelerators<br>
-Xiao-Bing Chen, <u>**Hao Qi**</u>, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
+Xiao-Bing Chen, **<u>Hao Qi</u>**, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
 * Software and hardware co-optimization design and
 implementation of depthwise convolution<br>
-<u>**Hao Qi**</u>, ShaoLi Liu, Wei Li<br>
+**<u>Hao Qi</u>**, ShaoLi Liu, Wei Li<br>
 High Technology Letters, 2022 | [[pdf]](/files/depthwise.pdf)
 
 * Research on Software and Hardware Optimization of Convolution Operation in Neural Network<br>
-<u>**Hao Qi**</u><br>
+**<u>Hao Qi</u>**<br>
 Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 
 # 🏅 Honors and Awards
@@ -75,7 +75,7 @@ Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 - *2016.11* National Scholarship
 
 # 🎓 Educations 
-- *2021.09 - now*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
+- *2021.09 - present*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
 - *2018.09 - 2021.06*, <a href="http://en.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> School of Computer Science and Technology, University of Science and Technology of China, Hefei China. 
 - *2014.09 - 2018.06*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
 
