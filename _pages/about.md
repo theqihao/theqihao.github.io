@@ -33,7 +33,7 @@ My research interest includes:
 
 # 🎓 Educations 
 - *2021.09 - now*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
-- *2018.09 - 2021.06*, <a href="http://en.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
+- *2018.09 - 2021.06*, <a href="http://en.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> School of Computer Science and Technology, University of Science and Technology of China, Hefei China. 
 - *2014.09 - 2018.6*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
 
 
