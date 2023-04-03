@@ -51,24 +51,24 @@ The 60th Design Automation Conference, 2023 | [[pdf]]()
 
 * Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics<br>
 Hai Jin, **Hao Qi**, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao<br>
-Intelligent Computing, 2022 | [[pdf]](/_file/greview.pdf)
+Intelligent Computing, 2022 | [[pdf]](/_files/greview.pdf)
 
 * Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach<br>
 Hui Yu, Xin-Yu Jiang, Jin Zhao, **Hao Qi**, Yu Zhang, Xiao-Fei Liao, Hai-Kun Liu, Fu-Bing Mao, Hai Jin<br>
-Journal of Computer Science and Technology, 2022 | [[pdf]](/_file/aiter.pdf)
+Journal of Computer Science and Technology, 2022 | [[pdf]](/_files/aiter.pdf)
 
 * Tetris: A Heuristic Static Memory Management Framework for Uniform Memory Multicore Neural Network Accelerators<br>
 Xiao-Bing Chen, **Hao Qi**, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
-Journal of Computer Science and Technology, 2022 | [[pdf]](/_file/tetris.pdf)
+Journal of Computer Science and Technology, 2022 | [[pdf]](/_files/tetris.pdf)
 
 * Software and hardware co-optimization design and
 implementation of depthwise convolution<br>
 **Hao Qi**, ShaoLi Liu, Wei Li<br>
-High Technology Letters, 2022 | [[pdf]](/_file/depthwise.pdf)
+High Technology Letters, 2022 | [[pdf]](/_files/depthwise.pdf)
 
 * Research on Software and Hardware Optimization of Convolution Operation in Neural Network<br>
 **Hao Qi**<br>
-Master Thesis, 2021 | [[pdf]](/_file/main.pdf)
+Master Thesis, 2021 | [[pdf]](/_files/main.pdf)
 
 # 🏅 Honors and Awards
 - *2017.09* 440 scores out of 500 in CCF CSP (top 0.14%), China
