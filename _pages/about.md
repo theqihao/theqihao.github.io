@@ -71,7 +71,7 @@ Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 - *2021.04* Zhongguancun Postgraduate Basic Scholarship
 - *2020.01* Cambricon Scholarship
 - *2018.12* Cambricon Scholarship
-- *2017.09* 440 scores out of 500 in CCF CSP (top 0.14%)
+- *2017.09* 440 scores out of 500 in [CCF CSP](https://www.cspro.org/) (top 0.14%)
 - *2016.11* National Scholarship
 
 # 🎓 Educations 
