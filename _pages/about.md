@@ -90,5 +90,6 @@ Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 
 <!-- # ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao.github.io&left_color=red&right_color=green)  -->
 <!-- # ![visitor badge](https://vbr.wocr.tk/badge?page_id=theqihao.theqihao.github.io&left_color=red&right_color=green)  -->
-# ![visitor badge](https://api.visitorbadge.io/api/VisitorHit?user=theqihao&repo=theqihao.github.io&left_color=red&right_color=green)
+<!-- # ![visitor badge](https://api.visitorbadge.io/api/VisitorHit?user=theqihao&repo=theqihao.github.io&left_color=red&right_color=green) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A) -->
+# ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftheqihao%2Ftheqihao.github.io&label=Visitors&countColor=%23263759&style=flat)
