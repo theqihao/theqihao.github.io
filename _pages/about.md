@@ -89,4 +89,6 @@ Master Thesis, 2021 | [[pdf]](/files/main.pdf)
 - *2018.02 - 2021.06*, [Cambricon Technologies Corporation](https://www.cambricon.com/), China.
 
 <!-- # ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=theqihao.theqihao.github.io&left_color=red&right_color=green)  -->
-# ![visitor badge](https://vbr.wocr.tk/badge?page_id=theqihao.theqihao.github.io&left_color=red&right_color=green) 
+<!-- # ![visitor badge](https://vbr.wocr.tk/badge?page_id=theqihao.theqihao.github.io&left_color=red&right_color=green)  -->
+# ![visitor badge](https://api.visitorbadge.io/api/VisitorHit?user=theqihao&repo=theqihao.github.io&left_color=red&right_color=green)
+<!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A) -->
