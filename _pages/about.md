@@ -57,15 +57,6 @@ Journal of Computer Science and Technology, 2022 | [[pdf]](/files/aiter.pdf)
 Xiao-Bing Chen, **<u>Hao Qi</u>**, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
-* Software and hardware co-optimization design and
-implementation of depthwise convolution<br>
-**<u>Hao Qi</u>**, ShaoLi Liu, Wei Li<br>
-High Technology Letters, 2022 | [[pdf]](/files/depthwise.pdf)
-
-* Research on Software and Hardware Optimization of Convolution Operation in Neural Network<br>
-**<u>Hao Qi</u>**<br>
-Master Thesis, 2021 | [[pdf]](/files/main.pdf)
-
 # 🏅 Honors and Awards
 <!-- - *2023.01* Merit Postgraduate, HUST, China  -->
 - *2021.04* Zhongguancun Postgraduate Basic Scholarship
