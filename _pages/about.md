@@ -33,7 +33,7 @@ My research interest includes:
 
 
 # 🔥 News
-*2024.02*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2024!
+*2024.02*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2024!<br>
 *2023.02*: &nbsp;🎉🎉 Paper is accepted by DAC 2023!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
