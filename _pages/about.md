@@ -17,46 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). My advisors are Prof. Yu Zhang and Prof. Hai Jin, who is the director of [CGCL lab](http://grid.hust.edu.cn/).
+Hao Qi (齐豪) is a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). His advisors are Prof. Yu Zhang (张宇) and Prof. Hai Jin (金海), who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
-<!-- My research focuses on deployable hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics. -->
+His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including Eurosys, DAC, and others.
 
+He plans to graduate in the winter of 2025 and is actively looking for a post-doctoral position or industrial research job. Feel free to reach out if your lab/company has any openings.
 
-
-<!-- I’m currently a Ph.D. student at CGCL, HUST, in a group managed by Hai Jin. -->
-
-My research interest includes: 
+<!-- My research interest includes: 
 - Graph mining
 - Streaming graph
 - Deep learning
-- Software system and architecture
+- Software system and architecture -->
+
 
 
 # 🔥 News
 *2024.02*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2024!<br>
 *2023.02*: &nbsp;🎉🎉 Paper is accepted by DAC 2023!
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
 * **[EuroSys'24]** LSGraph: A Locality-centric High-performance Streaming Graph Engine<br>
 **<u>Hao Qi</u>**, Yiyang Wu, Ligang He, Yu Zhang, Kang Luo, Minzhi Cai, Hai Jin, Zhan Zhang, Jin Zhao<br>
-The Nineteenth European Conference on Computer Systems, 2024
+The Nineteenth European Conference on Computer Systems, 2024 | [[pdf]](/files/LSGraph.pdf)
 
 * **[DAC'23]** PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining<br>
 **<u>Hao Qi</u>**, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, Jin Zhao, Hai Jin<br>
 The 60th Design Automation Conference, 2023 | [[pdf]](/files/PSMiner.pdf)
 
-* Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics<br>
+* **[Intelligent Computing'22]** Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics<br>
 Hai Jin, **<u>Hao Qi</u>**, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao<br>
 Intelligent Computing, 2022 | [[pdf]](/files/greview.pdf)
 
-* Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach<br>
+* **[JCST'22]** Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach<br>
 Hui Yu, Xin-Yu Jiang, Jin Zhao, **<u>Hao Qi</u>**, Yu Zhang, Xiao-Fei Liao, Hai-Kun Liu, Fu-Bing Mao, Hai Jin<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/aiter.pdf)
 
-* Tetris: A Heuristic Static Memory Management Framework for Uniform Memory Multicore Neural Network Accelerators<br>
+* **[JCST'22]** Tetris: A Heuristic Static Memory Management Framework for Uniform Memory Multicore Neural Network Accelerators<br>
 Xiao-Bing Chen, **<u>Hao Qi</u>**, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
@@ -87,3 +84,7 @@ Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 <!-- # ![visitor badge](https://api.visitorbadge.io/api/VisitorHit?user=theqihao&repo=theqihao.github.io&left_color=red&right_color=green) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A) -->
 # ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftheqihao%2Ftheqihao.github.io&label=Visitors&countColor=%2337d67a&style=plastic&labelStyle=none)
+
+
+
+<!-- local test: bundle exec jekyll serve -->
