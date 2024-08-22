@@ -37,6 +37,14 @@ He plans to graduate in the winter of 2025 and is actively looking for a post-do
 
 # 📝 Publications 
 
+* **[TACO'24]** An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing<br>
+Jin Zhao, Yu Zhang, Donghao He, Qikun Li, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Xiaofei Liao, Hai Jin, Haikun Liu, Linchen Yu, Zhan Zhang<br>
+ACM Transactions on Architecture and Code Optimization, 2024
+
+* **[Cluster'24]** PGSampler: Accelerating GPU-based Graph Sampling in GNN Systems via Workload Fusion<br>
+Xiaohui Wei, Weikai Tang, **<u>Hao Qi</u>**, Hengshan Yue<br>
+IEEE International Conference on Cluster Computing, 2024
+
 * **[EuroSys'24]** LSGraph: A Locality-centric High-performance Streaming Graph Engine<br>
 **<u>Hao Qi</u>**, Yiyang Wu, Ligang He, Yu Zhang, Kang Luo, Minzhi Cai, Hai Jin, Zhan Zhang, Jin Zhao<br>
 The Nineteenth European Conference on Computer Systems, 2024 | [[pdf]](/files/LSGraph.pdf)
