@@ -21,7 +21,7 @@ Hao Qi (齐豪) is a Ph.D. candidate at the School of Computer Science and Techn
 
 His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including Eurosys, DAC, and others.
 
-He plans to graduate in the winter of 2025 and is actively looking for a post-doctoral position or industrial research job. Feel free to reach out if your lab/company has any openings.
+<!-- He plans to graduate in the winter of 2025 and is actively looking for a post-doctoral position or industrial research job. Feel free to reach out if your lab/company has any openings. -->
 
 <!-- My research interest includes: 
 - Graph mining
@@ -39,7 +39,7 @@ He plans to graduate in the winter of 2025 and is actively looking for a post-do
 
 * **[TACO'24]** An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing<br>
 Jin Zhao, Yu Zhang, Donghao He, Qikun Li, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Xiaofei Liao, Hai Jin, Haikun Liu, Linchen Yu, Zhan Zhang<br>
-ACM Transactions on Architecture and Code Optimization, 2024
+ACM Transactions on Architecture and Code Optimization, 2024 | [[pdf]](/files/ASGraph.pdf)
 
 * **[Cluster'24]** PGSampler: Accelerating GPU-based Graph Sampling in GNN Systems via Workload Fusion<br>
 Xiaohui Wei, Weikai Tang, **<u>Hao Qi</u>**, Hengshan Yue<br>
@@ -67,6 +67,7 @@ Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
 # 🏅 Honors and Awards
 <!-- - *2023.01* Merit Postgraduate, HUST, China  -->
+- *2024.05* Huawei Scholarship
 - *2021.04* Zhongguancun Postgraduate Basic Scholarship
 - *2020.01* Cambricon Scholarship
 - *2018.12* Cambricon Scholarship
