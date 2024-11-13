@@ -43,7 +43,7 @@ ACM Transactions on Architecture and Code Optimization, 2024 | [[pdf]](/files/AS
 
 * **[Cluster'24]** PGSampler: Accelerating GPU-based Graph Sampling in GNN Systems via Workload Fusion<br>
 Xiaohui Wei, Weikai Tang, **<u>Hao Qi</u>**, Hengshan Yue<br>
-IEEE International Conference on Cluster Computing, 2024
+IEEE International Conference on Cluster Computing, 2024 | [[pdf]](/files/PGSampler.pdf)
 
 * **[EuroSys'24]** LSGraph: A Locality-centric High-performance Streaming Graph Engine<br>
 **<u>Hao Qi</u>**, Yiyang Wu, Ligang He, Yu Zhang, Kang Luo, Minzhi Cai, Hai Jin, Zhan Zhang, Jin Zhao<br>
@@ -67,6 +67,7 @@ Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
 # 🏅 Honors and Awards
 <!-- - *2023.01* Merit Postgraduate, HUST, China  -->
+- *2024.11* National Scholarship
 - *2024.05* Huawei Scholarship
 - *2021.04* Zhongguancun Postgraduate Basic Scholarship
 - *2020.01* Cambricon Scholarship
