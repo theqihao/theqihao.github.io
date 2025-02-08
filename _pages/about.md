@@ -32,10 +32,15 @@ His main research field is high-performance software system and architecture for
 
 
 # 🔥 News
+*2025.01*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2025!<br>
 *2024.02*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2024!<br>
 *2023.02*: &nbsp;🎉🎉 Paper is accepted by DAC 2023!
 
 # 📝 Publications 
+
+* **[EuroSys'25]** OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining<br>
+**<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
+The Twentieth European Conference on Computer Systems, 2025
 
 * **[TACO'24]** An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing<br>
 Jin Zhao, Yu Zhang, Donghao He, Qikun Li, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Xiaofei Liao, Hai Jin, Haikun Liu, Linchen Yu, Zhan Zhang<br>
