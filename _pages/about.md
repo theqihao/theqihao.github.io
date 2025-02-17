@@ -42,13 +42,17 @@ His main research field is high-performance software system and architecture for
 **<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
 The Twentieth European Conference on Computer Systems, 2025
 
+* **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
+Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
+The 62th ACM/IEEE Design Automation Conference, 2025
+
 * **[TACO'24]** An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing<br>
 Jin Zhao, Yu Zhang, Donghao He, Qikun Li, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Xiaofei Liao, Hai Jin, Haikun Liu, Linchen Yu, Zhan Zhang<br>
 ACM Transactions on Architecture and Code Optimization, 2024 | [[pdf]](/files/ASGraph.pdf)
 
 * **[Cluster'24]** PGSampler: Accelerating GPU-based Graph Sampling in GNN Systems via Workload Fusion<br>
 Xiaohui Wei, Weikai Tang, **<u>Hao Qi</u>**, Hengshan Yue<br>
-IEEE International Conference on Cluster Computing, 2024 | [[pdf]](/files/PGSampler.pdf)
+The 2024 IEEE International Conference on Cluster Computing, 2024 | [[pdf]](/files/PGSampler.pdf)
 
 * **[EuroSys'24]** LSGraph: A Locality-centric High-performance Streaming Graph Engine<br>
 **<u>Hao Qi</u>**, Yiyang Wu, Ligang He, Yu Zhang, Kang Luo, Minzhi Cai, Hai Jin, Zhan Zhang, Jin Zhao<br>
@@ -56,7 +60,7 @@ The Nineteenth European Conference on Computer Systems, 2024 | [[pdf]](/files/LS
 
 * **[DAC'23]** PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining<br>
 **<u>Hao Qi</u>**, Yu Zhang, Ligang He, Kang Luo, Jun Huang, Haoyu Lu, Jin Zhao, Hai Jin<br>
-The 60th Design Automation Conference, 2023 | [[pdf]](/files/PSMiner.pdf)
+The ACM/IEEE 60th Design Automation Conference, 2023 | [[pdf]](/files/PSMiner.pdf)
 
 * **[Intelligent Computing'22]** Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics<br>
 Hai Jin, **<u>Hao Qi</u>**, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao<br>
