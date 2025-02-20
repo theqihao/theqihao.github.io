@@ -19,7 +19,7 @@ redirect_from:
 
 Hao Qi (齐豪) is a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). His advisors are Prof. Yu Zhang (张宇) and Prof. Hai Jin (金海), who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
-His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including Eurosys, DAC, and others.
+His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including EuroSys, DAC, and others.
 
 <!-- He plans to graduate in the winter of 2025 and is actively looking for a post-doctoral position or industrial research job. Feel free to reach out if your lab/company has any openings. -->
 
