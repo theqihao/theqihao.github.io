@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hao Qi (齐豪) is a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). His advisors are Prof. Yu Zhang (张宇) and Prof. Hai Jin (金海), who is the director of [CGCL lab](http://grid.hust.edu.cn/).
+Hao Qi (齐豪) is a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). His advisor is Prof. Hai Jin (金海), who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
 His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including EuroSys, DAC, and others.
 
@@ -32,6 +32,7 @@ His main research field is high-performance software system and architecture for
 
 
 # 🔥 News
+*2025.04*: &nbsp;🎉🎉 Congratulations to Hao Qi for passing his doctoral dissertation defense!<br>
 *2025.01*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2025!<br>
 *2024.02*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2024!<br>
 *2023.02*: &nbsp;🎉🎉 Paper is accepted by DAC 2023!
@@ -40,7 +41,7 @@ His main research field is high-performance software system and architecture for
 
 * **[EuroSys'25]** OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining<br>
 **<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
-The Twentieth European Conference on Computer Systems, 2025
+The Twentieth European Conference on Computer Systems, 2025 | [[pdf]](/files/OHMiner.pdf)
 
 * **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
 Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
