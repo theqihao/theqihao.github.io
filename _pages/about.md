@@ -47,6 +47,10 @@ The Twentieth European Conference on Computer Systems, 2025 | [[pdf]](/files/OHM
 Jin Zhao, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, **<u>Hao Qi</u>**, Longlong Lin, Linchen Yu, Xiaofei Liao, Hai Jin<br>
 The 30th International Conference on Architectural Support for Programming Languages and Operating Systems, 2025
 
+* **[SC'25]** TaGNN: An Efficient Topology-aware Accelerator for High-performance Dynamic Graph Neural Network<br>
+Hui Yu, Yu Zhang, Ligang He, Bing Peng, Jin Zhao, Zixiao Wang, **<u>Hao Qi</u>**, Hai Jin<br>
+The 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025
+
 * **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
 Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
 The 62th ACM/IEEE Design Automation Conference, 2025
@@ -81,7 +85,7 @@ Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
 # 🏅 Honors and Awards
 <!-- - *2023.01* Merit Postgraduate, HUST, China  -->
-- *2024.11* National Scholarship
+- *2024.12* National Scholarship
 - *2024.05* Huawei Scholarship
 - *2021.04* Zhongguancun Postgraduate Basic Scholarship
 - *2020.01* Cambricon Scholarship
