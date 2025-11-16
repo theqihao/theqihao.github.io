@@ -19,7 +19,7 @@ redirect_from:
 
 Hao Qi (齐豪) is a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). His advisor is Prof. Hai Jin (金海), who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
-His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including EuroSys, DAC, and others.
+His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including EuroSys, ASPLOS, SC, PPoPP, DAC, and others.
 
 <!-- He plans to graduate in the winter of 2025 and is actively looking for a post-doctoral position or industrial research job. Feel free to reach out if your lab/company has any openings. -->
 
@@ -54,7 +54,7 @@ The 30th International Conference on Architectural Support for Programming Langu
 
 * **[SC'25]** TaGNN: An Efficient Topology-aware Accelerator for High-performance Dynamic Graph Neural Network<br>
 Hui Yu, Yu Zhang, Ligang He, Bing Peng, Jin Zhao, Zixiao Wang, **<u>Hao Qi</u>**, Hai Jin<br>
-The 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025
+The 2025 International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025 | [[pdf]](/files/TaGNN.pdf)
 
 * **[DAC'25]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree<br>
 Jin Zhao, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, **<u>Hao Qi</u>**, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin<br>
