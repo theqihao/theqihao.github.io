@@ -99,7 +99,7 @@ Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 - *2016.11* National Scholarship
 
 # 🎓 Educations 
-- *2021.09 - present*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
+- *2021.09 - 2025.06*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
 - *2018.09 - 2021.06*, <a href="http://en.ustc.edu.cn/"><img class="svg" src="/images/USTC_logo.svg" width="23pt"></a> School of Computer Science and Technology, University of Science and Technology of China, Hefei China. 
 - *2014.09 - 2018.06*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Computer Science and Technology, Huazhong University of Science and Technology, Wuhan China. 
 
