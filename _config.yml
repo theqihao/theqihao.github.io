@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Qi (齐豪)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong University of Science and Technology (HUST)"
-  location         : "Wuhan, China"
+  bio              : "Hong Kong Baptist University (HKBU)"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JWf2XtgAAAAJ"
-  email            : "theqihao@qq.com"
+  email            : "theqihao@hkbu.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

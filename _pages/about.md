@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hao Qi (齐豪) is a Ph.D. at the School of Computer Science and Technology, Huazhong University of Science and Technology (华中科技大学计算机科学与技术学院). His advisor is Prof. Hai Jin (金海), who is the director of [CGCL lab](http://grid.hust.edu.cn/).
 
-His main research field is high-performance software system and architecture for graph and AI applications. Related papers have been published in conferences and journals, including EuroSys, ASPLOS, SC, PPoPP, DAC, and others.
+
+Hao Qi is currently a Post-Doctoral Research Fellow in Department of Computer Science at Hong Kong Baptist University, working under the supervision of Prof. [Chi Zhou](https://amelieczhou.github.io/).
+
+
+He received his Ph.D. degree from the School of Computer Science and Technology at Huazhong University of Science and Technology in 2025, advised by Prof. [Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en), the director of [CGCL lab](http://grid.hust.edu.cn/). His research primarily focuses on high-performance software system and architecture for AI and graph applications. He has published extensively in top-tier conferences and journals, including EuroSys, ASPLOS, SC, PPoPP, DAC, and others.
 
 <!-- He plans to graduate in the winter of 2025 and is actively looking for a post-doctoral position or industrial research job. Feel free to reach out if your lab/company has any openings. -->
 
@@ -33,6 +36,7 @@ His main research field is high-performance software system and architecture for
 
 
 # 🔥 News
+*2026.03*: &nbsp;🎉🎉 Paper is accepted by DAC 2026!<br>
 *2025.11*: &nbsp;🎉🎉 Paper is accepted by PPoPP 2026!<br>
 *2025.01*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2025!<br>
 *2024.02*: &nbsp;🎉🎉 Paper is accepted by EuroSys 2024!<br>
@@ -40,9 +44,13 @@ His main research field is high-performance software system and architecture for
 
 # 📝 Publications 
 
+* **[DAC'26]** A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion<br>
+Yinbo Hou**\***, **<u>Hao Qi</u>\* (Co--first author)**, Jin Zhao, Yu Zhang, Yiling Lu, Hui Yu, longlong lin, Wenbin Jiang, Xiaofei Liao, Hai Jin<br>
+The 63rd IEEE/ACM Design Automation Conference, 2026 
+
 * **[PPoPP'26]** DTMiner: A Data-centric System for Efficient Temporal Motif Mining<br>
-Yinbo Hou**\***, **<u>Hao Qi</u>\* (Co--first author)**, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin.
-The 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, 2026
+Yinbo Hou**\***, **<u>Hao Qi</u>\* (Co--first author)**, Ligang He, Jin Zhao, Yu Zhang, Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin<br>
+The 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, 2026 | [[pdf]](/files/DTMiner.pdf)
 
 * **[EuroSys'25]** OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining<br>
 **<u>Hao Qi</u>**, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, Jin Zhao, Hengshan Yue, Hui Yu, Xiaofei Liao<br>
