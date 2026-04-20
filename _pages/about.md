@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-Hao Qi is currently a Post-Doctoral Research Fellow in Department of Computer Science at Hong Kong Baptist University, working under the supervision of Prof. [Chi Zhou](https://amelieczhou.github.io/).
+Hao Qi is currently a Post-Doctoral Research Fellow in Department of Computer Science at Hong Kong Baptist University, working under the supervision of Prof. [Amelie Chi Zhou](https://amelieczhou.github.io/).
 
 
 He received his Ph.D. degree from the School of Computer Science and Technology at Huazhong University of Science and Technology in 2025, advised by Prof. [Hai Jin](https://scholar.google.com/citations?user=o02W0aEAAAAJ&hl=en), the director of [CGCL lab](http://grid.hust.edu.cn/). His research primarily focuses on high-performance software system and architecture for AI and graph applications. He has published extensively in top-tier conferences and journals, including EuroSys, ASPLOS, SC, PPoPP, DAC, and others.
@@ -89,11 +89,11 @@ Hai Jin, **<u>Hao Qi</u>**, Jin Zhao, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qingg
 Intelligent Computing, 2022 | [[pdf]](/files/greview.pdf)
 
 * **[JCST'22]** Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach<br>
-Hui Yu, Xin-Yu Jiang, Jin Zhao, **<u>Hao Qi</u>**, Yu Zhang, Xiao-Fei Liao, Hai-Kun Liu, Fu-Bing Mao, Hai Jin<br>
+Hui Yu, Xinyu Jiang, Jin Zhao, **<u>Hao Qi</u>**, Yu Zhang, Xiaofei Liao, Haikun Liu, Fubing Mao, Hai Jin<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/aiter.pdf)
 
 * **[JCST'22]** Tetris: A Heuristic Static Memory Management Framework for Uniform Memory Multicore Neural Network Accelerators<br>
-Xiao-Bing Chen, **<u>Hao Qi</u>**, Shao-Hui Peng, Yi-Min Zhuang, Tian Zhi, Yun-Ji Chen<br>
+Xiaobing Chen, **<u>Hao Qi</u>**, Shaohui Peng, Yimin Zhuang, Tian Zhi, Yunji Chen<br>
 Journal of Computer Science and Technology, 2022 | [[pdf]](/files/tetris.pdf)
 
 # 🏅 Honors and Awards
